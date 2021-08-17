@@ -13,7 +13,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 work on java,springcloud alibaba,kubernetes
+- 👨🏽‍💻 work on java,springcloud alibaba,kubernetes;
 - 🌱 I’m currently learning Kubernetes and linux; 
 - 🤔 I’m looking for help with study Kubernetes 😭;
 - 💬 Ask me about anything, I am happy to help;
