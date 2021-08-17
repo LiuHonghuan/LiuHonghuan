@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm honghuan, a DevOps 🚀 from china.
+## Hello, Everyone 😁
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/honghuan0921)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:honghuan0921@gmail.com)
@@ -8,12 +8,12 @@
 &nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**📚 关于我 | About me:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Singhand](https://);
+- 👨🏽‍💻 java，springcloud alibaba，kubernetes
 - 🌱 I’m currently learning Kubernetes and linux; 
 - 🤔 I’m looking for help with study Kubernetes 😭;
 - 💬 Ask me about anything, I am happy to help;
