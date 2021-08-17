@@ -19,9 +19,8 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on [Singhand](https://);
 - 🌱 I’m currently learning Kubernetes and linux; 
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 🤔 I’m looking for help with study Kubernetes 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
 - 📫 How to reach me: honghuan0921@gmail.com;
 
 
