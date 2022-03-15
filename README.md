@@ -13,10 +13,10 @@
 
  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
-- 👨🏽‍💻 language: java, linux;
+- 👨🏽‍💻 language: java, javascript;
 - 🌱 I’m currently learning redis; 
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: honghuan0921@gmail.com;
+- 📫 Contact me: honghuan0921@gmail.com;
 
 
 
