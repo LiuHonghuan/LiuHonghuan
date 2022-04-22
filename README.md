@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hello, Everyone 😁
+## Hello, 我是honghuan  😁
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/honghuan0921)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:honghuan0921@gmail.com) 
@@ -16,7 +16,7 @@
 - 👨🏽‍💻 language: java, javascript;
 - 🌱 I’m currently learning redis; 
 - 💬 Ask me about anything, I am happy to help.
-- 📫 Contact me: honghuan0921@gmail.com;
+
 
 
 
