@@ -14,7 +14,7 @@
  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
 - 👨🏽‍💻 language: java, javascript;
-- 🌱 I’m currently learning redis; 
+- 🌱 I’m currently learning jsp; 
 - 💬 Ask me about anything, I am happy to help.
 
 
